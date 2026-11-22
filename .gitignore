@@ -43,4 +43,9 @@ buildNumber.properties
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
 
+# Local environment variables
+.env
+.env.*
+!.env.example
+
 # End of https://www.toptal.com/developers/gitignore/api/maven,java
